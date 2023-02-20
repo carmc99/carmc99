@@ -24,23 +24,23 @@ Currently I am focused on the development of Web and Desktop applications, howev
 <p align="center">A summary of my technician skills.</p>
 
 <p align="center">
-  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/aws-dynamodb.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/aws-ec2.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/aws-lambda.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/csharp.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/css.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/docker.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/git.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/html.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/javascript.jpg' height='42px'/>
-  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/mysql.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/postgresql.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/powershell.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/python.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/vue.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/wpf.png' height='42px'>
-  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/oracle-database.png' height='42px'/>
-  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/electron.png' height='42px'>
+  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/aws-dynamodb.png' height='42px' alt="Aws Dynamo db"/>
+  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/aws-ec2.png' height='42px' alt="Aws EC2"/>
+  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/aws-lambda.png' height='42px' alt="Aws Lambda"/>
+  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/csharp.png' height='42px' alt="C#"/>
+  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/css.png' height='42px' alt="CSS"/>
+  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/docker.png' height='42px' alt="Docker"/>
+  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/git.png' height='42px' alt="Git"/>
+  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/html.png' height='42px' alt="Html"/>
+  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/javascript.jpg' height='42px' alt="JavaScript"/>
+  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/mysql.png' height='42px' alt="MySql">
+  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/postgresql.png' height='42px' alt="Postgresql">
+  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/powershell.png' height='42px' alt="Powershell">
+  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/python.png' height='42px' alt="Python">
+  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/vue.png' height='42px' alt="VueJs">
+  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/wpf.png' height='42px' alt="Window presentation foundation - WPF">
+  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/oracle-database.png' height='42px' alt="Oracle database"/>
+  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/electron.png' height='42px' alt="Electron JS">
 </p>
 
 <h2 align="center">📈 GitHub Stats</h2>
