@@ -10,7 +10,7 @@ I am a software developer and engineering student passionate about the IT world,
 
 Currently I am focused on the development of Web and Desktop applications, however I am always willing to face new challenges, accompanied by a team to which I can contribute and have common goals.
 
-:books: Reading, :video_game: Videogames :running: Gym, 💻 FullStack.
+:books: Reading, :video_game: Videogames :running: Gym, 💻 Backend.
 
 ![](https://komarev.com/ghpvc/?username=carmc99&color=blueviolet)
 
