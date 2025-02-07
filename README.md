@@ -29,19 +29,11 @@ Currently I am focused on the development of Web and Desktop applications, howev
   <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/aws-ec2.png' height='42px' alt="Aws EC2" title="Aws EC2"/>
   <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/aws-lambda.png' height='42px' alt="Aws Lambda" title="Aws Lambda"/>
   <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/csharp.png' height='42px' alt="C#" title="C#"/>
-  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/css.png' height='42px' alt="CSS" title="CSS"/>
   <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/docker.png' height='42px' alt="Docker" title="Docker"/>
   <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/git.png' height='42px' alt="Git" title="Git"/>
   <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/html.png' height='42px' alt="Html" title="Html"/>
   <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/javascript.jpg' height='42px' alt="JavaScript" title="JavaScript"/>
-  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/mysql.png' height='42px' alt="MySql" title="MySql">
-  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/postgresql.png' height='42px' alt="Postgresql" title="Postgresql">
   <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/powershell.png' height='42px' alt="Powershell" title="Powershell">
-  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/python.png' height='42px' alt="Python" title="Python">
-  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/vue.png' height='42px' alt="VueJs" title="VueJs">
-  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/wpf.png' height='42px' alt="Window presentation foundation - WPF" title="Window presentation foundation - WPF">
-  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/oracle-database.png' height='42px' alt="Oracle database" title="Oracle database"/>
-  <img src='https://raw.githubusercontent.com/carmc99/carmc99/master/icons/electron.png' height='42px' alt="Electron JS" title="Electron JS">
 </p>
 
 <h2 align="center">📈 GitHub Stats</h2>
